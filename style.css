@@ -7,10 +7,11 @@ body {
   margin: 0;
   font-family: Arial, Helvetica, sans-serif;
 }
+
 /* Style the header */
 .header {
   background-color: hsl(187, 45%, 31%);
-  padding: 30px;
+  padding: 36px;
   text-align: center;
   color: white;
   font-size: 35px;
